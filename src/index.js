@@ -10,7 +10,7 @@ const Header = () => (
     <div className="menu">
       <ul>
         <li>
-          <a href="/home">Home</a>
+          <a href="/">Home</a>
         </li>
       </ul>
     </div>
