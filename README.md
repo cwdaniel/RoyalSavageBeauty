@@ -1,2 +1,0 @@
-# RoyalSavageBeauty
-Created with CodeSandbox
